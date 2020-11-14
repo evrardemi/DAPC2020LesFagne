@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d141c5f3-9faa-49be-8894-a7c5d46f9c1f" name="Default" comment="" />
+    <list default="true" id="d141c5f3-9faa-49be-8894-a7c5d46f9c1f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code/java/P9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Code/java/P9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,14 +47,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mimie\Desktop\UCL emilien\Concours\DAC2020\Source\Java\src" />
+      <recent name="C:\Users\mimie\Desktop\UCL emilien\Concours\DAC2020\Source\Java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mimie\Desktop\UCL emilien\Concours\DAC2020\src\Code" />
       <recent name="C:\Users\mimie\Desktop\UCL emilien\Concours\DAC2020\src\test" />
       <recent name="C:\Users\mimie\Desktop\UCL emilien\Concours\DAC2020\Source\Test" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mimie\Desktop\UCL emilien\Concours\DAC2020\Source\Java\src" />
-      <recent name="C:\Users\mimie\Desktop\UCL emilien\Concours\DAC2020\Source\Java" />
     </key>
   </component>
   <component name="RunManager">
